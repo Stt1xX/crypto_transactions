@@ -1,24 +1,13 @@
-# vue_crypto
+# cryptocurrency transactor
 
-## Project setup
-```
-npm install
-```
+Simple web-site based on a vue.js without backend
 
-### Compiles and hot-reloads for development
+## Project external library
 ```
-npm run serve
+npm i crypto-convert
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Some Photoes
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![alt text](first.png "Title")
+![alt text](second.png "Favorites")
